@@ -15,7 +15,8 @@ backend, web, mobile and the cloud they run on — and I work AI-native.
   deterministic verification, document AI, applied ML
 
 ### Selected work
-Most of my work lives in private company repositories. What it covers:
+Most of my work lives in private repositories, so it isn't public here. I'm happy
+to walk through the architecture and code in an interview. What it covers:
 - **B2B procurement platform**, built solo in 8 weeks — NestJS, PostgreSQL,
   BullMQ; query-level tenant isolation, transactional outbox, ~2,500 tests;
   Azure via Bicep
